@@ -1,0 +1,28 @@
+{
+  "name": "zyrox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "common-tags": "^1.8.0",
+    "discord.js": "^11.5.1",
+    "express": "^4.17.1",
+    "jimp": "^0.16.1",
+    "math-expression-evaluator": "^1.2.22",
+    "moment": "^2.28.0",
+    "moment-duration-format": "^2.3.2",
+    "quick.db": "^7.1.2",
+    "simple-youtube-api": "^5.2.1",
+    "weather-js": "^2.0.0",
+    "ytdl-core": "^3.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node shard.js",
+    "start": "node shard.js"
+  },
+  "author": "MaS",
+  "license": "ISC",
+  "keywords": []
+}
